@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eiron3636
+- 👋 Hi, I’m @Ash_Nazg
 - 👀 I’m interested in Game development & story design
 - 🌱 I’m currently learning C++
 
