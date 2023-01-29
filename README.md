@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eiron3636
-- 👀 I’m interested in Game design & Animation
-- 🌱 I’m currently learning Swift
+- 👀 I’m interested in Game development & story design
+- 🌱 I’m currently learning C++
 
 <!---
 levivicars/levivicars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
